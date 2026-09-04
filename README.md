@@ -7,7 +7,7 @@
 
 An institutional-grade **Quantitative Finance & Deep Hedging Framework** in PyTorch, calibrated on high-frequency National Stock Exchange (NSE) NIFTY 50 options minute data. 
 
-The framework benchmarks analytical Black–Scholes delta hedging against a neural-network **Deep Hedger** optimizing **Conditional Value at Risk ($\text{CVaR}_{5\%}$)** under discrete rebalancing intervals ($50\dots250$ steps) and proportional transaction frictions.
+The framework benchmarks analytical **Black–Scholes delta hedging** against a neural-network **Deep Hedger** optimizing **Conditional Value at Risk (CVaR$_{5\%}$)** under discrete rebalancing intervals (**50–250 steps**) and proportional transaction frictions.
 
 ---
 
